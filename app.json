@@ -1,11 +1,8 @@
 {
-  "name": "socket-chat-example",
-  "version": "0.0.1",
+  "name": "Socket-Chat-Example",
   "description": "my first socket.io app",
-  "dependencies": {
-    "express": "^4.18.1",
-    "socket.io": "^4.5.1"
-  },
+  "website": "https://github.com/CuptainTeamo/chat-box-example",
+  "repository": "https://github.com/CuptainTeamo/chat-box-example",
   "success_url": "/",
   "keywords": ["node", "express", "socket.io", "realtime", "websocket"],
   "scripts": {},
